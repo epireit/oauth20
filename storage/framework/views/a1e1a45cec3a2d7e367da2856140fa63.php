@@ -1,1 +1,0 @@
-<?php /**PATH D:\Programming\oauth\resources\themes/default/layouts/header.blade.php ENDPATH**/ ?>

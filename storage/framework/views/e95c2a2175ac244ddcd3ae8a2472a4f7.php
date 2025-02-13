@@ -1,1 +1,0 @@
-<?php /**PATH D:\Programming\oauth\resources\views/admin/layouts/navbar.blade.php ENDPATH**/ ?>
